@@ -1,0 +1,7 @@
+E:\SeriousProjects(C#)\Simon\Simon\obj\Debug\Simon.csprojAssemblyReference.cache
+E:\SeriousProjects(C#)\Simon\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
+E:\SeriousProjects(C#)\Simon\Simon\bin\Debug\Simon.exe.config
+E:\SeriousProjects(C#)\Simon\Simon\bin\Debug\Simon.exe
+E:\SeriousProjects(C#)\Simon\Simon\bin\Debug\Simon.pdb
+E:\SeriousProjects(C#)\Simon\Simon\obj\Debug\Simon.exe
+E:\SeriousProjects(C#)\Simon\Simon\obj\Debug\Simon.pdb

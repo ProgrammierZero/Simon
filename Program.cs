@@ -10,7 +10,7 @@ namespace Simon
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 0.1");
+            GameLogic game = new GameLogic();
         }
     }
 }
